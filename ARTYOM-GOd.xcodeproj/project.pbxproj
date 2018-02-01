@@ -12,6 +12,7 @@
 		3F0163A2202307A8003B8014 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F0163A0202307A8003B8014 /* Main.storyboard */; };
 		3F0163A4202307A8003B8014 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F0163A3202307A8003B8014 /* Assets.xcassets */; };
 		3F0163A7202307A8003B8014 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F0163A5202307A8003B8014 /* LaunchScreen.storyboard */; };
+		3F0163AF20230BE6003B8014 /* 12345.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0163AE20230BE6003B8014 /* 12345.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3F0163A3202307A8003B8014 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F0163A6202307A8003B8014 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F0163A8202307A8003B8014 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F0163AE20230BE6003B8014 /* 12345.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12345.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				3F01639C202307A8003B8014 /* AppDelegate.swift */,
 				3F01639E202307A8003B8014 /* ViewController.swift */,
 				3F0163A0202307A8003B8014 /* Main.storyboard */,
+				3F0163AE20230BE6003B8014 /* 12345.swift */,
 				3F0163A3202307A8003B8014 /* Assets.xcassets */,
 				3F0163A5202307A8003B8014 /* LaunchScreen.storyboard */,
 				3F0163A8202307A8003B8014 /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F01639F202307A8003B8014 /* ViewController.swift in Sources */,
+				3F0163AF20230BE6003B8014 /* 12345.swift in Sources */,
 				3F01639D202307A8003B8014 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
